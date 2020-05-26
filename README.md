@@ -97,17 +97,7 @@ This is the html model for the formularies
 
     <legend>Preferencias</legend>
 
-    <p>
-
-      <label><input type="checkbox" name="hash"> hash</label><br>
-
-      <label><input type="checkbox" name="nombreusuario"> nombreusuario</label><br>
-
-      <label><input type="checkbox" name="plantilla"> plantilla</label><br>
-
-      <label><input type="checkbox" name="Direccion de correoelectronico"> Direccion de correoelectronico</label><br>
-
-    </p>
+    
 
   </fieldset>
 
